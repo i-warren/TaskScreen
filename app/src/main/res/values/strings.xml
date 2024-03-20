@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TaskScreen</string>
+    <string name="main_message">All tasks completed</string>
+    <string name="nice_work">Nice work!</string>
+</resources>
